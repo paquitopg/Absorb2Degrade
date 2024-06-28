@@ -1,2 +1,5 @@
 # Absorb2Degrade
- TO DO : explain
+ This model investigates the relationship between biopolymers' water absorption and their biodegradabilty score. 
+
+ ##
+QSAR AD determination : 
